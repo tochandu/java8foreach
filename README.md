@@ -8,4 +8,4 @@
 
 **Example5** - Java 8 Stream example - Map with forEach and Filter on custom data
 
-more details 
+more details :-
